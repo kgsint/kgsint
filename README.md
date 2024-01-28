@@ -1,9 +1,9 @@
 # About me
 
-Hello, *I'm Kaung Sint Ko Ko*, a curious yet coffee-fueled web developer who love to translate English letters into `0s` and `1s`. Enthusiatics about open-source technology and trying my best to be part of the community. Also, I do sketching and drawing whenever I can.
+Hello, *I'm Kaung Sint Ko Ko*, a curious yet coffee-fueled (full-stack) web developer who enjoys crafting human language into `0s` and `1s` (and I am not a compiler :D) . Enthusiatics about open-source technology and trying to be a good fit for the community. Also, I do sketching and drawing whenever I can.
 
 >
-> Keep It simple, Stupid
+> Keep it Simple, Stupid
 >
 -----------------------------------------------------------------------
 
@@ -15,11 +15,11 @@ Hello, *I'm Kaung Sint Ko Ko*, a curious yet coffee-fueled web developer who lov
 
     "pronouns": "he/him",
 
-    "technologies": ["HTML5", "CSS3", "Javascript", "jQuery", "PHP", "Laravel", "Vue"],
+    "technologies": ["HTML5", "CSS3", "JavaScript", "jQuery", "PHP", "Laravel", "Livewire", "Vue"],
 
-    "currently_learning": ["AWS", "React"],
+    "currently_learning": ["AWS", "React", "React Native"],
 
-    "hobby": ["drawing", "sketching"]
+    "hobbies": ["drawing", "sketching"]
 
   }
   ```
