@@ -24,7 +24,7 @@ Hello, *I'm Kaung Sint Ko Ko*, a curious yet coffee-fueled (full-stack) web deve
   }
   ```
 
-  ![kgsint's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgsint&show_icons=true&theme=github_dark)
+  ![kgsint's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgsint&show=prs_merged&show_icons=true&theme=github_dark)
 
 
 ** Fun fact: *I prefer "Hello" over "Hi"*
