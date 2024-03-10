@@ -17,7 +17,7 @@ Hello, *I'm Kaung Sint Ko Ko*, a curious yet coffee-fueled (full-stack) web deve
 
     "technologies": ["HTML5", "CSS3", "JavaScript", "jQuery", "PHP", "Laravel", "Livewire", "Vue"],
 
-    "currently_learning": ["AWS", "React", "React Native"],
+    "currently_learning": ["Ruby", "Ruby on Rails", "React", "React Native", "AWS"],
 
     "hobbies": ["drawing", "sketching"]
 
