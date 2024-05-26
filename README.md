@@ -15,9 +15,9 @@ Hello, *I'm Kaung Sint Ko Ko*, a curious yet coffee-fueled (full-stack) web deve
 
     "pronouns": "he/him",
 
-    "technologies": ["HTML5", "CSS3", "JavaScript", "jQuery", "PHP", "Laravel", "Livewire", "Vue"],
+    "technologies": ["HTML5", "CSS3", "JavaScript", "PHP", "Laravel", "Livewire", "Ruby", "Ruby on Rails"],
 
-    "currently_learning": ["Ruby", "Ruby on Rails", "React", "React Native", "AWS"],
+    "currently_learning": ["Node.js", "React.js", "Software Architectures and Designs", "Server Deployment"],
 
     "hobbies": ["drawing", "sketching"]
 
@@ -25,6 +25,3 @@ Hello, *I'm Kaung Sint Ko Ko*, a curious yet coffee-fueled (full-stack) web deve
   ```
 
   ![kgsint's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgsint&show=prs_merged&show_icons=true&theme=github_dark)
-
-
-** Fun fact: *I prefer "Hello" over "Hi"*
