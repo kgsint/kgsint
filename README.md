@@ -5,7 +5,7 @@ Hello, *I'm Kaung Sint Ko Ko*, a curious yet coffee-fueled web developer who enj
 >
 > Keep it Simple, Stupid
 >
------------------------------------------------------------------------
+---
 
   ```json
   {
@@ -19,7 +19,8 @@ Hello, *I'm Kaung Sint Ko Ko*, a curious yet coffee-fueled web developer who enj
 
   }
   ```
-
+---
 
   ![kgsint's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgsint&show=prs_merged&show_icons=true&theme=github_dark)
+  ---
   [![Tools](https://skillicons.dev/icons?i=js,nodejs,express,php,laravel,ruby,rails,vuejs,react,nextjs,mysql,postgres,mongo,git&theme=dark&perline=18)](https://skillicons.dev)
